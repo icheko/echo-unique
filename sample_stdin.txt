@@ -1,0 +1,13 @@
+staging.mbe.domain.com
+domain.com
+domain.co.uk
+domain.ai
+billing-api-staging.domain.com
+mbe-staging.domain.com
+mbe-staging.domain.com
+staging.mbe.domain.com
+duplicate
+unique
+duplicate
+randomtext
+random
